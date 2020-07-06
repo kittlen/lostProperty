@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.classpath
+.project
+.prefs
+*.class
+.gitignore
+/.settings/
+target/com.team.lostProperty-1.0-SNAPSHOT/WEB-INF/classes/com/team/lostProperty/dao/
+target/com.team.lostProperty-1.0-SNAPSHOT/WEB-INF/classes/mapper/
+target/generated-sources/
+target/generated-test-sources/
+target/test-classes/
