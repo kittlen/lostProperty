@@ -18,3 +18,4 @@ target/com.team.lostProperty-1.0-SNAPSHOT/WEB-INF/classes/mapper/
 target/generated-sources/
 target/generated-test-sources/
 target/test-classes/
+.idea/
