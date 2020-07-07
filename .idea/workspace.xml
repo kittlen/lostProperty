@@ -12,36 +12,28 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a7a8ac4-8347-42f8-aa35-da32a514ec06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.team.lostProperty.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/lostProperty/action/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/lostProperty/base/MyBatisDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/lostProperty/entities/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/lostProperty/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/lostProperty/mapper/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/lostProperty/mapper/demoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/team/lostProperty/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/MyBatisCfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/html/orderTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jstl/demo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jstl/orderTest.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +47,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -92,7 +89,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -278,8 +275,16 @@
       <workItem from="1593998404201" duration="9034000" />
       <workItem from="1594030998505" duration="2582000" />
       <workItem from="1594033623752" duration="204000" />
-      <workItem from="1594033833856" duration="422000" />
+      <workItem from="1594033833856" duration="4177000" />
     </task>
+    <task id="LOCAL-00001" summary="lostProperty 0.0.1">
+      <created>1594034450971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594034450971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,12 +295,28 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lostProperty 0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lostProperty 0.0.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="114" key="#Project_Structure" timestamp="1593872940988">
@@ -326,10 +347,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="416" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1594032546357" />
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1594034256225">
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1594034840942">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594034256225" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594034840941" />
     <state x="384" y="320" key="FileChooserDialogImpl" timestamp="1594032993635">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -406,14 +427,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="688" y="241" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594033940802" />
-    <state x="530" y="216" key="SettingsEditor" timestamp="1594033585617">
+    <state x="530" y="216" key="SettingsEditor" timestamp="1594034882516">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="530" y="216" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594033585617" />
+    <state x="530" y="216" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594034882516" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1594043494833">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1594043494833" />
     <state x="718" y="359" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593877464282">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="718" y="359" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593877464282" />
+    <state x="731" y="439" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594043123541">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="731" y="439" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594043123541" />
     <state x="334" y="200" key="new project wizard" timestamp="1594002497525">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
