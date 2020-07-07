@@ -23,7 +23,6 @@
         <property name="removeSemicolonContent" value="false" />
     </bean>
 
-
     <!-- 内部视图解析器，JSP与JSTL模板 -->
     <bean
             class="org.springframework.web.servlet.view.InternalResourceViewResolver"

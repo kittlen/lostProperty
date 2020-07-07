@@ -18,16 +18,8 @@ public class Demo {
 
     @RequestMapping("1")
     @ResponseBody
-    public Result getDemo( int a, String b){
-        Result result=new Result();
-        result.setCode(a+"");
-        result.setCount(a);
-        result.add(b);
-        Map<String,String> map=new HashMap<String, String>();
-        map.put("aaa",b);
-        result.add(map);
-        result.setMsg("提醒消息");
-        return result;
+    public String getDemo(){
+        return "进入了demo/1";
     }
 
     @RequestMapping("2")
